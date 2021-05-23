@@ -69,6 +69,10 @@ pip install labelImg
 # 執行 LabelImg
 labelImg
 ```
+<img src=https://github.com/DaYi-TW/YOLO/blob/main/picture/labelimg.png alt="drawing" height="400px" ></img>
+
+
+<img src=https://github.com/DaYi-TW/YOLO/blob/main/picture/labelimg_v2.png alt="drawing" height="400px" ></img>
 
 <h4>前置作業</H4>
 

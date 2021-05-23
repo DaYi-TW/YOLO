@@ -1,0 +1,7 @@
+classes= 2
+train  = ./retrain/cfg/train.txt
+valid  = ./retrain/cfg/test.txt
+#valid = data/coco_val_5k.list
+names = ./retrain/cfg/obj.names
+backup = ./retrain/weights
+

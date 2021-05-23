@@ -76,14 +76,17 @@ labelImg
 
 * cfg 資料夾設置
   * obj.data : 記載darknet 的 UNIX 執行檔所需資料路徑 \
-  <img src=https://github.com/DaYi-TW/YOLO/blob/main/obj.png alt="drawing" height="300" ></img>
+  <img src=https://github.com/DaYi-TW/YOLO/blob/main/picture/obj.data.png alt="drawing" height="200px" ></img>
   * obj.name : 欲分類類別
   * yolov4-tiny.cfg : YOLOv4模型
-  * train.txt : 紀錄訓練影像路徑
-  * test.txt : 紀錄測試影像路徑
+  * train.txt : 紀錄訓練影像路徑 \
+  <img src=https://github.com/DaYi-TW/YOLO/blob/main/picture/train.png alt="drawing" height="400px" ></img>
+  * test.txt : 紀錄測試影像路徑 \
+  <img src=https://github.com/DaYi-TW/YOLO/blob/main/picture/test.png alt="drawing" height="400px" ></img>
 * image 資料夾設置
   * jpg : 放欲訓練及測試影像
-  * txt : 影像標記後的座標
+  * txt : 影像標記後的座標 \
+  <img src=https://github.com/DaYi-TW/YOLO/blob/main/picture/image.png alt="drawing" height="400px" ></img>
 * weights 資料夾設置
   * 存放訓練前模型權重
   * 存放訓練後模型權重
